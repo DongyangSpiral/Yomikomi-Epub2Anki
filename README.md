@@ -1,14 +1,4 @@
-# Yomikomi/Epub2Anki
-
-为你量身定制的 README.md 来了！这份介绍既有极客的专业感，又非常吸引普通日语学习者。
-你可以直接将以下内容复制并保存为项目根目录下的 README.md 文件。
-📚 YomiKomi (読み込み) - 沉浸式日语轻小说背词神器
-
-- ![alt text](https://img.shields.io/badge/Python-3.8%2B-blue)
-
-- ![alt text](https://img.shields.io/badge/License-MIT-green)
-
-- ![alt text](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-lightgrey)
+#  YomiKomi (読み込み) - 沉浸式日语轻小说背词神器
 
 YomiKomi 是一款专为日语学习者打造的开源桌面工具。它能将你喜欢的日语轻小说 (EPUB) 与 目标词库 (如 N2/N3 核心词汇) 进行智能碰撞，一键提取小说中出现过的目标单词，并截取小说原句作为例句，最终自动生成 Anki 记忆卡片。
 告别死记硬背枯燥的词汇表，在你在喜欢的原著语境中，实现“被电击般”的超强记忆！
