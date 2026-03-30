@@ -48,7 +48,7 @@ CSV
 打开 YomiKomi。
 选择词库 -> 选择你的轻小说 (.epub)。
 勾选你需要的导出格式（推荐勾选“提取外来语”）。
-点击 ⚡ 立即提取词汇并导出。
+点击立即提取词汇并导出。
 见证奇迹的时刻！
 一键打包成 EXE (面向开发者)
 如果你修改了源码并想将其打包发给朋友，本项目自带了一键打包脚本，彻底解决 unidic-lite 字典路径丢失的痛点：
@@ -63,7 +63,6 @@ EPUB 解析: EbookLib + BeautifulSoup4
 Anki 封包:Genanki
 API 翻译: Jisho API + 有道翻译 API
 并发处理: Python threading & concurrent.futures
-🤝 贡献与反馈
-如果你在使用过程中遇到了 Bug，或者有更好的点子（比如接入 AI 大模型进行整句翻译），欢迎提交 Issue 或 Pull Request！
+
 
 
